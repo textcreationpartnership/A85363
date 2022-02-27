@@ -1,0 +1,164 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Good newes from Westchester, by good intelligence: shewing the resolution of that city to adventure their lives and fortunes in defence of the King and Parliament, being lately opposed by the cavaliers. Also a perfect reltaion [sic] of the Lord Brooke his fidelity to the Parliament, going down to Warwick Castle for the defence of his countrey. Also the manner of Sir Iohn Sackvills apprehension neere Seaven-Oake in Kent. With the number of horse lately taken by the Earle of Warwick coming from Flanders. And the description of a great combustion at Brainford on Tuesday last, being the 16. of this instant August. wherein many of the cavaliers had much mischiefe. Hen. Elsing Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85363</idno>
+            <idno type="STC">Wing G1071</idno>
+            <idno type="STC">Thomason E112_29</idno>
+            <idno type="STC">ESTC R9930</idno>
+            <idno type="EEBO-CITATION">99873632</idno>
+            <idno type="PROQUEST">99873632</idno>
+            <idno type="VID">126112</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85363)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 126112)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 20:E112[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Good newes from Westchester, by good intelligence: shewing the resolution of that city to adventure their lives and fortunes in defence of the King and Parliament, being lately opposed by the cavaliers. Also a perfect reltaion [sic] of the Lord Brooke his fidelity to the Parliament, going down to Warwick Castle for the defence of his countrey. Also the manner of Sir Iohn Sackvills apprehension neere Seaven-Oake in Kent. With the number of horse lately taken by the Earle of Warwick coming from Flanders. And the description of a great combustion at Brainford on Tuesday last, being the 16. of this instant August. wherein many of the cavaliers had much mischiefe. Hen. Elsing Cler. Parl. D. Com.</title>
+                  <author>Great Britain, Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Iohn Iackson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>August 18. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Brooke, Robert Greville, --  Baron, 1607-1643 --  Early works to 1800.</term>
+               <term>Sackvilles, John, --  Sir --  Early works to 1800.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2007-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2007-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2010-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:126112:1" rendition="simple:additions"/>
+            <p>GOOD NEWES <hi>FROM</hi> WESTCHESTER; <hi>BY</hi> GOOD INTELLIGENCE: <hi>SHEWING</hi> The Reſolution of that City to adventure their lives and fortunes in defence of the King and Parliament, being lately oppoſed by the Cavaliers.</p>
+            <p>
+               <hi>ALSO A perfect Reltaion of the</hi> Lord Brooke <hi>his fidelity to the Parliament, going down to</hi> Warwick <hi>Caſtle for the defence of his Countrey.</hi>
+            </p>
+            <p>Alſo the manner of <hi>Sir Iohn Sackvills</hi> apprehenſion neere <hi>Seaven-Oake</hi> in <hi>Kent.</hi>
+            </p>
+            <p>
+               <hi>With the number of horſe lately taken by the</hi> Earle of Warwick <hi>coming from</hi> Flanders.</p>
+            <p>
+               <hi>AND</hi> The deſcription of a great combuſtion at <hi>Brainford</hi> on tueſday laſt, being the 16. of this inſtant Auguſt. wherein many of the Cavaliers had much miſchiefe.</p>
+            <p>Hen. Elſing Cler. Parl. D. Com.</p>
+            <p>Printed for <hi>Iohn Iackſon. Auguſt</hi> 18. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:126112:2"/>
+            <pb n="1" facs="tcp:126112:2"/>
+            <head>
+               <hi>GOOD NEWES</hi> FROM WESTCHESTER, By true Intelligence.</head>
+            <p>
+               <seg rend="decorInit">N</seg>Ewes is ſo conformable and agreeable an object to the underſtanding, that good ſubjects earneſtly thirſt for the relation thereof, eſpecially when it is true, and ſuch as reflects on the pro<g ref="char:EOLhyphen"/>ſperity and good of the King, the Parliament, and the Commonwealth. The true Proteſtant Religion, for which the Parliament ſtands, hath a ſecret quality to attract the good wils and reſolutions of this land to expoſe themſelves in defence of the King and Parli<g ref="char:EOLhyphen"/>ment. This occult influence of religion, working ſu<g ref="char:EOLhyphen"/>pernaturally on humane affections, is the adamant that doth attract ſuch a numerous confluence of fide<g ref="char:EOLhyphen"/>lious ſubiects to maintaine the pious and religious proceedings of the Parliament. Amongſt the reſt, the brave &amp; magnanimous reſolution of the town of <hi>Weſtcheſter</hi> deſerves commemoration: for they (not<g ref="char:EOLhyphen"/>withſtanding that many townes have been aſſaulted, and ſuffered much by the Cavaliers, who rove about in all parts, to give the countrey a ſenſible taſte of the bitter effects of a civill war) not fearing any oppoſi<g ref="char:EOLhyphen"/>tion that can be made againſt them, are fully reſol<g ref="char:EOLhyphen"/>ved to maintain the Kings honour, and the Parlia<g ref="char:EOLhyphen"/>ments priviledge againſt the malignant Party, and have in a Petition preſented to the Commons deli<g ref="char:EOLhyphen"/>vered their readineſſe to ſerve the King and Parlia<g ref="char:EOLhyphen"/>ment
+<pb n="2" facs="tcp:126112:3"/>
+with their lives and fortunes; and their <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for hindring the drawing up of that Petition is ſent for as a delinquent. Much oppoſition they have had by the new diſorderly order of Cavaliers; who de<g ref="char:EOLhyphen"/>light to be the incendiaries of the Commonwealth. But the undaunted courage of the Citizens of <hi>Weſt<g ref="char:EOLhyphen"/>cheſter</hi> is firmly contracted and ſetled upon the King and Parliament, for whom they account their lives but a cheap ſacrifice.</p>
+            <p>And that it may be further known how the love and affection of the Commonalty, and the well-affe<g ref="char:EOLhyphen"/>cted Nobility are really and ſtrongly united unto the Parliament; certaine intelligence being given that <hi>Banbury</hi> is taken by the Earle of <hi>Northampton,</hi> and that fine Peeces of Ordnance left by the L. <hi>Brook</hi> in the cuſtody of his ſonne M. <hi>Fines</hi> were forced from him and carried to <hi>Warwick,</hi> the L. <hi>Brook</hi> taking this indignity in high indignation, hath now very lately rai<g ref="char:EOLhyphen"/>ſed a great and well appointed troupe of horſe, that may couragiouſly encounter with the L. of <hi>Northam<g ref="char:EOLhyphen"/>ptons</hi> forces; and without all queſtion he will perform noble and heroicall exploits againſt the ruining flaſh<g ref="char:EOLhyphen"/>ing valour of the Cavaliers. The L. <hi>Brook</hi> himſelfe, that he may infuſe the greater magnanimity into his troupes, doth with his preſence give animation and incouragement to their and his reſolution: and for that purpoſe is now (exaſperated with the iniuries and affronts offered to him gone down to deſend his countrey againſt the violent oppreſsions of the ma<g ref="char:EOLhyphen"/>lignant part<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, that their malice may be daunted at the firſt apparition of his warlike troupes, intending, by the favour and auſpicious appointment of the Parlia<g ref="char:EOLhyphen"/>ment,
+<pb n="3" facs="tcp:126112:3"/>
+not onely to ſecure his much diſtracted Coun<g ref="char:EOLhyphen"/>trey from all divelliſh oppoſitions and machinations plotted by the malignants; but alſo to the uttermoſt hazard of his eſtate and Fortunes to defend his Caſtle at <hi>Warwick,</hi> being an ancient ſtructure rightfully un<g ref="char:EOLhyphen"/>to him belonging; God ſend him proſperous ſucceſſe and crowne his attempts with victory, ſince the grounds of his reſolution are pious and honourable, being in defence of his King, Countrey, and Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>And as God hath made this Kingdome reſolute and full of fidelity in adhering to the Parliament, ſo doth he daily demonſtrate his miraculous power in the diſcovery of all pernicious plots and deſignes againſt this land, all the purpoſes and ſecret preparations of the malignants and Papiſts being <hi>digito Dei,</hi> by the finger of almighty God ſhewed and pointed out unto us before they come to any maturity; and thus by the divine providence of God, ſome having a great ſuſpi<g ref="char:EOLhyphen"/>tion that Sir <hi>Iohn Sackvill</hi> was Popiſhly inclined and ill-affected to the Proteſtant Religion. Vpon this ſuppoſition, he dwelling at, or neere unto the towne of <hi>Seven-Oakes</hi> in <hi>Kent,</hi> was by many of the inha<g ref="char:EOLhyphen"/>bitants on Sunday laſt, when he leaſt ſuſpected it, laid wait for as he was at Church, being a neutrall or Church-Papiſts, the towne of <hi>Seaven-Oakes</hi> ſtood a while in his defence, endeavouring to reſcue him from them, that ſo he might not be taken; but when they perceived that the other who came to apprehend him were too ſtrong for them, they fearing to endan<g ref="char:EOLhyphen"/>ger themſelves in ſuch a combuſtion, and to give of<g ref="char:EOLhyphen"/>fence to the high Court of Parliament, unto whom
+<pb n="4" facs="tcp:126112:4"/>
+he was to be ſent as a Delinquent, ſuffered them to carry him away, afterward having put him in ſafe cu<g ref="char:EOLhyphen"/>ſtody, his houſe being diligently ſearched, there was found therein all ſorts of warlike ammunition; and eſpecially great ſaddles, all which were conveyed in five waggons upto <hi>London;</hi> and brought with much ioyfull exultation through the City unto the Parlia<g ref="char:EOLhyphen"/>ment, and beſides many horſes were alſo found out, which the ſaid Sir <hi>Iohn Sackvill</hi> had obſcurely kept a long time in a cave underground, which being diſco<g ref="char:EOLhyphen"/>vered, they alſo with the aforeſaid ammunition were ſpeedily brought up to <hi>London,</hi> for without queſtion this Knight had no good intention in providing and ſecretly keeping ſuch ammunition, ſaddles and hor<g ref="char:EOLhyphen"/>ſes; but (as it may be probably conjectured, did pur<g ref="char:EOLhyphen"/>poſe to uſe them in time of need, and with this un<g ref="char:EOLhyphen"/>known ſtrength to aid the malignant party againſt the Parliament; but his malicious deſigne, as others of the like nature, were brought to light, himſelfe be<g ref="char:EOLhyphen"/>ing apprehended, and his warlike ammunition and his warlike ammunition and horſes ſeized on as a moſt happy diſcovery.</p>
+            <p>Moreover as God hath protected this Parliament and the Kingdome by land, ſo by his auſpicious fa<g ref="char:EOLhyphen"/>vour the Earle of <hi>Warwick</hi> through his vigilant care and induſtry hath ſurprized certain ſhips coming from <hi>Flanders,</hi> wherein many great horſes were to bee brought over into <hi>England,</hi> and ſo to be ſent unto his Maieſty, to ſtrengthen the malignant party againſt the Parliament, but thanks be to God, they are come far ſhort of their intended iourney, though it is likely they were ſent from the Queen, or ſome Catholikes
+<pb n="5" facs="tcp:126112:4"/>
+in <hi>Flanders,</hi> there being many of the Popiſh malig<g ref="char:EOLhyphen"/>nant party in forraigne countreys, who would be ex<g ref="char:EOLhyphen"/>ceeding glad to add fuell to the civill war in <hi>England,</hi> and to ſend any forces or money to advance the ca<g ref="char:EOLhyphen"/>tholike cauſe; thereby to ſubvert the true Proteſtant Religion, and induce Poperie, as they have alwayes endeavoured by many contrived plots hitherto diſco<g ref="char:EOLhyphen"/>vered. This Kingdome is at this preſent put into great amazement and terrour by the Cavaliers, eſpecially in countrey villages, taking away the armour of all that refuſe to go with them or aſſiſt them, and ſlaying them that refuſe to give up their armes, robbing carriers and paſſengers, and taking all the booty that they can get whereſoever they come. But the Parliament hath now ſent diverſe troupes of horſe to relieve the countrey. <hi>Weſtcheſter</hi> alſo is and hath been much trou<g ref="char:EOLhyphen"/>bled in this common calamity, by reaſon that His Maieſty had ſent thither divers Captains to raiſe vo<g ref="char:EOLhyphen"/>luntiers, which do much hurt in the city and coun<g ref="char:EOLhyphen"/>trey by their inſolencies and evill demeanours to the inhabitants that refuſe to obey their commands; but the Maior of <hi>Weſtcheſter,</hi> Sir <hi>Iohn Brewerton,</hi> and the other Deputy Lieutenants have raiſed forces to ſup<g ref="char:EOLhyphen"/>preſſe all their attempts and traiterous endeavours tending to diſturb the peace of the countrey, and moreover <hi>Weſtcheſter</hi> (as aforeſaid) is moſt loyally and lovingly reſolved to ſhew their courage and magna<g ref="char:EOLhyphen"/>nimity in maintaining the true Proteſtant Religion, as it evidently appeares by a Petition lately by them preſented to the Parliament, wherein they declare their cheerfull willingneſſe to defend the King and Parliament againſt all thoſe who endeavour to ingage
+<pb n="6" facs="tcp:126112:5"/>
+this Kingdome in a civill warre, but hitherto (as the Relation hath ſhewed) the Commons are fully reſol<g ref="char:EOLhyphen"/>ved to withſtand all oppoſers of the Parliament, all their plots and proiects being hitherto by Gods pro<g ref="char:EOLhyphen"/>vidence found out and diſcoverd.</p>
+            <p>Every day brings forth ſome new accident. It is reported for certain, that on tueſday laſt at <hi>Brainford</hi> there was a great contention between the Cavaliers and the Parliaments ſouldies, in which skirmiſh many of the Cavaliers were cut and wounded, ſome their hands cut off, ſome their elbowes cut, beſides diverſe other wounds which they received. Alſo how Ca<g ref="char:EOLhyphen"/>ptaine <hi>De la Barr</hi> a French man hath entred into a Pa<g ref="char:EOLhyphen"/>piſts houſe, in whoſe defence he ſtands, having reſolved there to live and die: which reſiſtance of his gave oc<g ref="char:EOLhyphen"/>caſion to the former quarrell between the Cavaliers and our ſouldiers.</p>
+            <p>Ordered, that Sir <hi>Iohn Girlington,</hi> Sir <hi>George Mid<g ref="char:EOLhyphen"/>dleton,</hi> and Sir <hi>Edward Fitton</hi> be ſent for as delin<g ref="char:EOLhyphen"/>quents.</p>
+            <closer>
+               <signed>Hen. Elſing Cler. Parl. D. Com.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
